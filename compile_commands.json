@@ -1,0 +1,430 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_getnbr.o",
+      "my_getnbr.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_getnbr.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_getnbr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "navy_lib.o",
+      "navy_lib.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/navy_lib.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/navy_lib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "free_tabs.o",
+      "free_tabs.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/free_tabs.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/free_tabs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_str_to_word_array_free_delimiter.o",
+      "my_str_to_word_array_free_delimiter.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_str_to_word_array_free_delimiter.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_str_to_word_array_free_delimiter.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strncmp.o",
+      "my_strncmp.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_strncmp.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_strncmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_itoa.o",
+      "my_itoa.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_itoa.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_itoa.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strncpy.o",
+      "my_strncpy.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_strncpy.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_strncpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strlen.o",
+      "my_strlen.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_strlen.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_strlen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_char.o",
+      "my_printf/my_printf_char.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_char.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_char.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_dbl_sequel.o",
+      "my_printf/my_printf_dbl_sequel.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_dbl_sequel.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_dbl_sequel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_dbl.o",
+      "my_printf/my_printf_dbl.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_dbl.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_dbl.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_dbl_suite.o",
+      "my_printf/my_printf_dbl_suite.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_dbl_suite.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_dbl_suite.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_int.o",
+      "my_printf/my_printf_int.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_int.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_int.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_parse.o",
+      "my_printf/my_printf_parse.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_parse.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_parse.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_str.o",
+      "my_printf/my_printf_str.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_str.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_str.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_uint_sequel.o",
+      "my_printf/my_printf_uint_sequel.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_uint_sequel.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_uint_sequel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_uint.o",
+      "my_printf/my_printf_uint.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_uint.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_uint.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_utils.o",
+      "my_printf/my_printf_utils.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_utils.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf.o",
+      "my_printf/my_printf.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_putstr.o",
+      "my_printf/my_putstr.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_putstr.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_putstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_strlen.o",
+      "my_printf/my_strlen.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_strlen.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_strlen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_compute_power_rec.o",
+      "my_printf/my_compute_power_rec.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_compute_power_rec.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_compute_power_rec.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_per.o",
+      "my_printf/my_printf_per.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_per.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_per.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_strncmp.o",
+      "my_printf/my_strncmp.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_strncmp.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_strncmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_getpad.o",
+      "my_printf/my_printf_getpad.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_getpad.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/lib/my/my_printf/my_printf_getpad.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/main.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "src/my_navy.o",
+      "src/my_navy.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/my_navy.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/my_navy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "src/user_input/help.o",
+      "src/user_input/help.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/user_input/help.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/user_input/help.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "src/user_input/user_input.o",
+      "src/user_input/user_input.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/user_input/user_input.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/user_input/user_input.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "src/user_input/verify_file_validity/file_validity.o",
+      "src/user_input/verify_file_validity/file_validity.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/user_input/verify_file_validity/file_validity.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/user_input/verify_file_validity/file_validity.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "src/create_map/ships/vertical_evolution_ships.o",
+      "src/create_map/ships/vertical_evolution_ships.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/create_map/ships/vertical_evolution_ships.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/create_map/ships/vertical_evolution_ships.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "src/create_map/ships/horizontal_evolution_ships.o",
+      "src/create_map/ships/horizontal_evolution_ships.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/create_map/ships/horizontal_evolution_ships.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/create_map/ships/horizontal_evolution_ships.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "src/create_map/create_map.o",
+      "src/create_map/create_map.c"
+    ],
+    "directory": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin",
+    "file": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/create_map/create_map.c",
+    "output": "/home/jules/Epitech/B-PSU-100-BDX-1-1-navy-jules.fradin/src/create_map/create_map.o"
+  }
+]
